@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: LearnSpringBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sandeeprai
+Implementation-Vendor-Id: org.exp.springboot
+Build-Jdk: 1.8.0_40
+Implementation-URL: http://projects.spring.io/spring-boot/learnspringb
+ oot/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
