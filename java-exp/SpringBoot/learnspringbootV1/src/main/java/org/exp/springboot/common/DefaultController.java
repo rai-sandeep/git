@@ -1,13 +1,13 @@
-package org.exp.springboot.hello;
+package org.exp.springboot.common;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class HelloController {
+public class DefaultController {
 
-	@RequestMapping("/hello")
+	@RequestMapping
 	public String sayHello () {
-		return "Helloooo!";
+		return "Hello!";
 	}
 }
